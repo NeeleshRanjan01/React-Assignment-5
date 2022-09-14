@@ -1,11 +1,10 @@
-import './App.css';
+import './Components/style.css';
 import ClickCounter from './Components/ClickCounter';
 
 function App() {
   return (
     <div>
-      <ClickCounter />
-      
+      <ClickCounter />g
     </div>
   );
 }
